@@ -1,0 +1,14 @@
+body{
+    background-color: magenta;
+    color: blue;
+}
+
+.da{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.da>p{
+    font-size: larger;
+}
